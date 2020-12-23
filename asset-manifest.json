@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactGoogleMaps/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ReactGoogleMaps/static/js/main.8ca469a8.chunk.js",
+    "main.js.map": "/ReactGoogleMaps/static/js/main.8ca469a8.chunk.js.map",
+    "runtime-main.js": "/ReactGoogleMaps/static/js/runtime-main.cdb65e8e.js",
+    "runtime-main.js.map": "/ReactGoogleMaps/static/js/runtime-main.cdb65e8e.js.map",
+    "static/js/2.47905871.chunk.js": "/ReactGoogleMaps/static/js/2.47905871.chunk.js",
+    "static/js/2.47905871.chunk.js.map": "/ReactGoogleMaps/static/js/2.47905871.chunk.js.map",
+    "static/js/3.8b0ea581.chunk.js": "/ReactGoogleMaps/static/js/3.8b0ea581.chunk.js",
+    "static/js/3.8b0ea581.chunk.js.map": "/ReactGoogleMaps/static/js/3.8b0ea581.chunk.js.map",
+    "index.html": "/ReactGoogleMaps/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ReactGoogleMaps/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.47905871.chunk.js.LICENSE.txt": "/ReactGoogleMaps/static/js/2.47905871.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdb65e8e.js",
+    "static/js/2.47905871.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8ca469a8.chunk.js"
+  ]
+}
